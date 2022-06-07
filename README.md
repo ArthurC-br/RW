@@ -1,2 +1,4 @@
 # RW
-RAMSON-WARE
+RANSOM-WARE
+RansomWare para estudo, usado em ambiente controlado.
+TOME CUIDADO
